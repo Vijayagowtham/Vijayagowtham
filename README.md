@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vijayagowtham</h1>
-<h3 align="center">💻 Problem Solver | Web Developer | Backend Developer</h3>
+<h3 align="center">💻 Problem Solver | Web Developer | Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FFBF&center=true&vCenter=true&width=480&lines=I+💙+Coding+with+Music;Backend+Developer+(Spring+Boot);Frontend+Web+Designer;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FFBF&center=true&vCenter=true&width=480&lines=I+💙+Coding+with+Music;Frontend+Web+Designer;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
 
 ---
