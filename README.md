@@ -1,66 +1,74 @@
-# Premium GitHub Profile README
-
-> Replace the contents below into your profile README (`Vijayagowtham/README.md`).
+<!-- =========================
+     PREMIUM GITHUB PROFILE
+========================= -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vijayagowtham</h1>
-<h3 align="center">💻 Java Full Stack Developer • AI Enthusiast • Problem Solver</h3>
+
+<h3 align="center">
+💻 Java Full Stack Developer • AI Enthusiast • Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
 <a href="https://vijayagowtham-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
 </a>
 <a href="mailto:vijayagowthamv@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Contact_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 <a href="https://github.com/Vijayagowtham">
-<img src="https://img.shields.io/badge/💻_GitHub-Follow-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.linkedin.com/in/vijayagowtham">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vijayagowtham&label=PROFILE+VIEWS&style=for-the-badge"/>
+<b>🚀 Portfolio:</b><br/>
+<a href="https://vijayagowtham-portfolio.vercel.app/">https://vijayagowtham-portfolio.vercel.app/</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vijayagowtham&style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 B.Tech Artificial Intelligence & Data Science
+- 🎓 B.Tech AI & Data Science
 - 💻 Java Full Stack Developer
-- ⚙️ Spring Boot • REST APIs • PostgreSQL
-- 🎨 React • HTML • CSS • JavaScript • Tailwind CSS
-- 🤖 AI Automation (n8n, OpenAI API, Gemini API, Claude API)
-- ☁️ Vercel • Netlify
+- ⚙ Spring Boot | REST APIs | PostgreSQL
+- 🎨 HTML | CSS | JavaScript | React | Tailwind CSS
+- 🤖 AI Automation (n8n, OpenAI, Gemini, Claude)
+- ☁ Deploying with Vercel & Netlify
 - 📫 vijayagowthamv@gmail.com
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 <p align="center"><img src="https://skillicons.dev/icons?i=java,python,javascript"/></p>
 
-### 🌐 Frontend
+### Frontend
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/></p>
 
-### ⚙️ Backend
-<p align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs"/></p>
+### Backend
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,spring"/></p>
 
-### 🗄 Databases
+### Database
 <p align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase"/></p>
 
-### 🧰 Tools
+### Tools
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify"/></p>
 
 ---
@@ -97,15 +105,49 @@
 
 ---
 
-# 🌐 Connect With Me
+# 📊 Summary Cards
 
 <p align="center">
-<a href="https://vijayagowtham-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="mailto:vijayagowthamv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Vijayagowtham"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/vijayagowtham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijayagowtham&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vijayagowtham&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vijayagowtham&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vijayagowtham&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vijayagowtham&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
 
-<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
+# 🐍 Contribution Snake
+
+> After adding the `snake.yml` GitHub Action, this animation will appear automatically.
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijayagowtham/Vijayagowtham/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vijayagowtham/Vijayagowtham/output/github-contribution-grid-snake.svg">
+<img alt="snake" src="https://raw.githubusercontent.com/Vijayagowtham/Vijayagowtham/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:vijayagowthamv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Vijayagowtham"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/vijayagowtham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://vijayagowtham-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"></a>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
