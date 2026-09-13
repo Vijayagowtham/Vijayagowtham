@@ -45,7 +45,7 @@
 # 🚀 About Me
 
 - 🎓 B.Tech AI & Data Science
-- 💻 Java Full Stack Developer
+- 💻 Full Stack Developer
 - ⚙ Spring Boot | REST APIs | PostgreSQL
 - 🎨 HTML | CSS | JavaScript | React | Tailwind CSS
 - 🤖 AI Automation (n8n, OpenAI, Gemini, Claude)
