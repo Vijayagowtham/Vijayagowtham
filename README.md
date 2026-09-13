@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
