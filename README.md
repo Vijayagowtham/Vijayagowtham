@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Vijayagowtham</h1>
 
 <h3 align="center">
-💻 Java Full Stack Developer • AI Enthusiast • Problem Solver
+💻 Full Stack Developer • AI Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
